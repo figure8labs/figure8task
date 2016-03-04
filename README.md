@@ -13,8 +13,8 @@ Task types:
 
 examples:
 
-| Location independant | Location-based | repeating | collaborative | synergistic/time-sensitive
-| ------------- |:-------------:| -----:|
-| build a website | clean a street | clean a street| help with | other |
-| collect data      | manage an event |   manage a meeting | help with | other |
+| Location independant | Location-based | repeating | collaborative | synergistic/time-sensitive|
+| -------------------- |:--------------:| ---------:| -------------:| -------------------------:|
+| build a website      | clean a street | clean a street| help with | other |
+| collect data         | manage an event |   manage a meeting | help with | other |
 | write a paper | carry groceries |    carry groceries | help with | other |
