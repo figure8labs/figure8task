@@ -11,6 +11,14 @@ Task types:
 * collaborative
 * synergistic/time-sensitive
 
+Motivations:
+* Community oriented
+* Family oriented
+* Goal oriented
+* Education oriented
+* Exploration oriented
+* Introverted / Relaxation
+
 examples:
 
 | Location independant | Location-based | repeating | collaborative | synergistic/time-sensitive|
@@ -18,3 +26,6 @@ examples:
 | build a website      | clean a street | clean a street| help with | other |
 | collect data         | manage an event |   manage a meeting | help with | other |
 | write a paper | carry groceries |    carry groceries | help with | other |
+
+
+
